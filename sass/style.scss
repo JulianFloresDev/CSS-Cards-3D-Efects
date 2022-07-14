@@ -178,6 +178,7 @@
 
                         /*              Efecto texto con linear gradient            */
                         background: linear-gradient(-60deg, rgb(224, 44, 44), rgb(204, 238, 53));
+                        background-clip: text;
                         -webkit-background-clip: text;
                         -webkit-text-fill-color: transparent;
                     }
